@@ -5,7 +5,7 @@ Test for laravel developer position 2022
 
 ### Using Laravel CLI:-
 
-- [ ] Make new models (Post, Comment, Admin, User)
+- [ ] Make new models (Post, Comment, Admin, User):-
     - [ ] Posts table : title, content, photo, tags, timestamps
     - [ ] Comment: commentable_type, commentable_id, timestaps
     - [ ] Admin : name, email, phone,  timestamps
@@ -25,7 +25,7 @@ Admin Area:-
 
 ### Clients Area:-
 
-- [ ] Create new pages for (no design is needed)
+- [ ] Create new pages for:-
     - [ ] users profile (change personal info and profile picture, change password)
     - [ ] posts (Read only) with permissions and roles.
     - [ ] comments for each post with auditing. If approved by admin, you can see it.
