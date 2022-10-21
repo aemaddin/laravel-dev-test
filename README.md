@@ -6,11 +6,11 @@ Test for laravel developer position 2022
 ### Using Laravel CLI:-
 
 - [ ] Make new models (Post, Comment, Admin, User):-
-    - [ ] Posts table : title, content, photo, tags, timestamps
-    - [ ] Comment: commentable_type, commentable_id, timestaps
-    - [ ] Admin : name, email, phone,  timestamps
-    - [ ] User : first_name, last_name, email, phone, profile_picture, timestamps
-    - [ ] Role and Permission => use spatie package
+    - [ ] Posts table : `title, content, photo, tags, timestamps`
+    - [ ] Comment: `commentable_type, commentable_id, timestaps`
+    - [ ] Admin : `name, email, phone,  timestamps`
+    - [ ] User : `first_name, last_name, email, phone, profile_picture, timestamps`
+    - [ ] Role and Permission [use spatie package](https://spatie.be/docs/laravel-permission/v5/introduction)
 - [ ] Make a new auth guard for admins with everything related to this guard
 
 ### Using Laravel, Inertiajs and Vuejs composition style:-
