@@ -38,4 +38,4 @@ Create test cases for each resource you create to ensure everything works as exp
 
 After finishing, please create a new repo on GitHub and push your project with instructions to install and run the project.
 
-The expected time to finish the project is **1 hour**.
+The expected time to finish the project is **2 hours**.
