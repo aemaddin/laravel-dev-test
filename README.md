@@ -38,4 +38,5 @@ Create test cases for each resource you create to ensure everything works as exp
 
 After finishing, please create a new repo on GitHub and push your project with instructions to install and run the project.
 
-The expected time to finish the project is **2 hours**.
+![Laravel Mid-Senior Task](https://user-images.githubusercontent.com/11630742/201772669-ab63bcce-c114-475f-a168-f7327af94da3.png)
+
