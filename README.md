@@ -1,7 +1,7 @@
 # laravel Fullstack Developer Test
 Test for laravel developer position 2022
 
-## Laravel Senior Developer Test
+## Laravel Mid-Senior Developer Test
 
 ### Using Laravel CLI:-
 
